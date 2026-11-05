@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: data-prep-studio
+    runtime: python
+    plan: free
+    buildCommand: pip install -r data_prep_studio/requirements.txt
+    startCommand: streamlit run data_prep_studio/app.py --server.address 0.0.0.0 --server.port $PORT
+    healthCheckPath: /_stcore/health
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.13

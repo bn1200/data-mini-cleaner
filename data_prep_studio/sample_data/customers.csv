@@ -1,0 +1,33 @@
+customer_id,full_name,email,signup_date,district,plan,monthly_fee,orders,is_active,zip_code
+1001,Sorie Bangura,sorie.bangura@example.com,2024-04-21,Western Area,basic,300,11,yes,00231
+1002,  HAWA CONTEH ,hawa.conteh@example.com,2024-01-03,Kono,basic,0,7,yes,00232
+1003,Hawa Jalloh,hawa.jalloh@example.com,15/02/2024,Bo,basic,300,12,yes,00233
+1004,Ibrahim Kamara,ibrahim.kamara@example.com,2024-05-28,Kenema,premium,950,4,yes,00234
+1005,Alusine Turay,alusine.turay@example.com,2024-05-27,Western Area,basic,N/A,11,yes,00235
+1006,Hawa Sesay,hawa.sesay@example.com,2024-05-02,Kono,premium,950,10,no,00236
+1007,Alusine Bah,alusine.bah@example.com,2024-03-10,Bo,basic,950,not sure,no,00237
+1008,Hawa Bah,hawa.bah@example.com,2024-03-24,Kenema,basic,0,3,no,00238
+1009,Fatmata Koroma,fatmata.koroma@example.com,not a date,Western Area,basic,0,10,no,00239
+1010,Musa Koroma,musa.koroma@example.com,2024-05-16,Western Area,basic,0,8,no,00240
+1011,Musa Sesay,,2024-01-24,Port Loko,premium,"1,200.50",9,no,00241
+1012,Kadiatu Koroma,kadiatu.koroma@example.com,2024-01-15,Bo,basic,"1,200.50",15,yes,00242
+1013,Ibrahim Turay,ibrahim.turay@example.com,2024-02-24,,premium,950,15,yes,00243
+1014,Fatmata Bah,fatmata.bah@example.com,2024-04-18,Bo,premium,"1,200.50",8,no,00244
+1015,sorie jalloh,sorie.jalloh@example.com,2024-02-05,Bo,basic,300,7,yes,00245
+1016,Aminata Bah,aminata.bah@example.com,2024-05-06,Kenema,basic,"1,200.50",4,no,00246
+1017,Hawa Koroma,hawa.koroma@example.com,2024-05-19,Bo,basic,"1,200.50",14,no,00247
+1018,Mariama Jalloh,mariama.jalloh@example.com,2024-04-04,Port Loko,premium,0,1,yes,00248
+1019,Mohamed Conteh,mohamed.conteh@example.com,2024-04-06,Kenema,basic,300,3,yes,00249
+1020,Alusine Bangura,alusine.bangura@example.com,2024-05-04,Makeni,basic,"1,200.50",2,yes,00250
+1021,Alusine Jalloh,alusine.jalloh@example.com,2024-02-21,Kenema,premium,"1,200.50",15,yes,00251
+1022,Mohamed Bah,mohamed.bah@example.com,2024-04-16,Kenema,basic,0,4,yes,00252
+1023,Musa Koroma,musa.koroma@example.com,2024-06-09,Port Loko,basic,0,0,yes,00253
+1024,Hawa Koroma,hawa.koroma@example.com,2024-02-23,Makeni,premium,300,2,no,00254
+1025,Hawa Koroma,hawa.koroma@example.com,2024-02-12,Makeni,premium,950,7,yes,00255
+1026,Ibrahim Jalloh,ibrahim.jalloh@example.com,2024-06-26,Bo,premium,950,11,yes,00256
+1027,Aminata Turay,aminata.turay@example.com,2024-04-09,Port Loko,premium,950,14,no,00257
+1028,Sorie Sesay,sorie.sesay@example.com,2024-02-04,Kono,basic,950,10,yes,00258
+1029,Abu Mansaray,abu.mansaray@example.com,2024-05-27,Kono,premium,300,2,yes,00259
+1030,Mariama Conteh,mariama.conteh@example.com,2024-04-06,Port Loko,premium,0,2,no,00260
+1004,Ibrahim Kamara,ibrahim.kamara@example.com,2024-05-28,Kenema,premium,950,4,yes,00234
+1021,Alusine Jalloh,alusine.jalloh@example.com,2024-02-21,Kenema,premium,"1,200.50",15,yes,00251
